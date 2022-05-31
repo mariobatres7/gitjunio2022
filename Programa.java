@@ -16,11 +16,11 @@ public class Programa {
 
 		int c = sumar(2, 4);
 
-		System.out.println("La suma de 2 + 4 = " + c);
+		System.out.println("El resultado de 2 + 4 = " + c);
 
 		int d = restar(2, 4);
 
-		System.out.println("La resta de 2 - 4 = " + d);
+		System.out.println("El resultado de 2 - 4 = " + d);
 
 	}
 }
