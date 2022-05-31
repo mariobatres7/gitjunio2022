@@ -9,6 +9,9 @@ public class Programa {
 	}
 	
 	public static void main (String [] args) {
+
+		System.out.println("----------");
+
 		System.out.println("Inicio de de nuestro programa.");
 
 		int c = sumar(2, 4);
